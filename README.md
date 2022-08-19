@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Robert-Gabriel Trifan
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: trifangrobert@gmail.com
 
 <!---
